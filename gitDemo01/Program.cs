@@ -6,7 +6,7 @@ namespace gitDemo01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Github!");
+            Console.WriteLine("Hello other me!");
         }
     }
 }
